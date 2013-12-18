@@ -8,7 +8,6 @@ input  : 1150
 output : Seribu seratus lima puluh rupiah
 
 IDE: Eclipse
-Language: Java
 
 
 
